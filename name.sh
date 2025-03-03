@@ -1,4 +1,4 @@
-name_select {
+name_select() {
     read -p "Enter name : " name
     echo "Hello : " $name
 }

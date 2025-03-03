@@ -1,3 +1,4 @@
+echo "Hello : course_b"
 #b
 # 80 -  100 =A
 # 70 -  79 =B
